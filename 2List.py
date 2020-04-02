@@ -9,6 +9,6 @@ print(myList[1])
 print(myList[3])
 
 print("\nthe ex below printing it using for loops\n")
-#using for loop
+# using for loop
 for x in myList:
     print(x)

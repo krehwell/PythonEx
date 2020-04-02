@@ -1,9 +1,9 @@
-primes = [2,3,5,7]
+primes = [2, 3, 5, 7]
 for x in primes:
     print(x, end=" ")
 
 print()
-#using range
+# using range
 for x in range(5):
     print(x, end=" ")
 
